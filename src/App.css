@@ -30,3 +30,8 @@ h1 {
     align-items: flex-start;
     margin-top: 1rem;
 }
+
+.form-box button {
+  display: block;
+  margin: 1rem auto;
+}

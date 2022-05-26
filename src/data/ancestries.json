@@ -1,34 +1,158 @@
 [
-    "Anadi",
-    "Android",
-    "Automaton",
-    "Azarketi",
-    "Catfolk",
-    "Conrasu",
-    "Dragon",
-    "Dwarf",
-    "Elf",
-    "Fetchling",
-    "Fleshwarp",
-    "Gnoll",
-    "Gnome",
-    "Goblin",
-    "Goloma",
-    "Grippli",
-    "Halfling",
-    "Hobgoblin",
-    "Human",
-    "Kitsune",
-    "Kobold",
-    "Leshy",
-    "Lizardfolk",
-    "Orc",
-    "Poppet",
-    "Ratfolk",
-    "Shisk",
-    "Shoony",
-    "Skeleton",
-    "Sprite",
-    "Strix",
-    "Tengu"
+    {
+        "name": "Anadi",
+        "rarity": "rare",
+        "subHeritage":[""]
+    }, 
+    {   
+        "name": "Android",
+        "rarity": "rare",
+        "subHeritage":[""]
+    },
+    {
+        "name": "Automaton",
+        "rarity": "rare",
+        "subHeritage":[""]
+    },
+    {
+        "name": "Azarketi",
+        "rarity": "uncommon",
+        "subHeritage":[""]
+    },
+    {
+        "name": "Catfolk",
+        "rarity": "uncommon",
+        "subHeritage":[""]
+    },
+    {
+        "name": "Conrasu",
+        "rarity": "rare",
+        "subHeritage":[""]
+    },
+    {
+        "name": "Dwarf",
+        "rarity": "common",
+        "subHeritage":[""]
+    },
+    {
+        "name": "Elf",
+        "rarity": "common",
+        "subHeritage":[""]
+    },
+    {
+        "name": "Fetchling",
+        "rarity": "uncommon",
+        "subHeritage":[""]
+    },
+    {
+        "name": "Fleshwarp",
+        "rarity": "rare",
+        "subHeritage":[""]
+    },
+    {
+        "name": "Gnoll",
+        "rarity": "uncommon",
+        "subHeritage":[""]
+    },
+    {
+        "name": "Gnome",
+        "rarity": "common",
+        "subHeritage":[""]
+    },
+    {
+        "name": "Goblin",
+        "rarity": "common",
+        "subHeritage":[""]
+    },
+    {
+        "name": "Goloma",
+        "rarity": "rare",
+        "subHeritage":[""]
+    },
+    {
+        "name": "Grippli",
+        "rarity": "uncommon",
+        "subHeritage":[""]
+    },
+    {
+        "name": "Halfling",
+        "rarity": "common",
+        "subHeritage":[""]
+    },
+    {
+        "name": "Hobgoblin",
+        "rarity": "uncommon",
+        "subHeritage":[""]
+    },
+    {
+        "name": "Human",
+        "rarity": "common",
+        "subHeritage":[""]
+    },
+    {
+        "name": "Kitsune",
+        "rarity": "uncommon",
+        "subHeritage":[""]
+    },
+    {
+        "name": "Kobold",
+        "rarity": "uncommon",
+        "subHeritage":[""]
+    },
+    {
+        "name": "Leshy",
+        "rarity": "uncommon",
+        "subHeritage":[""]
+    },
+    {
+        "name": "Lizardfolk",
+        "rarity": "uncommon",
+        "subHeritage":[""]
+    },
+    {
+        "name": "Orc",
+        "rarity": "uncommon",
+        "subHeritage":[""]
+    },
+    {
+        "name": "Poppet",
+        "rarity": "rare",
+        "subHeritage":[""]
+    },
+    {
+        "name": "Ratfolk",
+        "rarity": "uncommon",
+        "subHeritage":[""]
+    },
+    {
+        "name": "Shisk",
+        "rarity": "rare",
+        "subHeritage":[""]
+    },
+    {
+        "name": "Shoony",
+        "rarity": "rare",
+        "subHeritage":[""]
+    },
+    {
+        "name": "Skeleton",
+        "rarity": "rare",
+        "subHeritage":[""]
+    },
+    {
+        "name": "Strix",
+        "rarity": "rare",
+        "subHeritage":[""]
+    },
+    {
+        "name": "Sprite",
+        "rarity": "rare",
+        "subHeritage":[""]
+    },
+    {
+        "name": "Tengu",
+        "rarity": "uncommon",
+        "subHeritage":[""]
+    }
 ]
+    
