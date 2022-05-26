@@ -1,4 +1,3 @@
-import logo from './logo.svg';
 import './App.css';
 import React from 'react';
 import classes from './data/classes.json'
@@ -31,17 +30,17 @@ class App extends React.Component {
     switch (type) {
       case "classes":
         i = Math.floor(Math.random() * length)
-        i = i == this.state.lastClassIndex ? this.randomIndex(length, type) : i
+        i = i === this.state.lastClassIndex ? this.randomIndex(length, type) : i
         this.setState({lastClassIndex: i})
         break
       case "backgrounds":
         i = Math.floor(Math.random() * length)
-        i = i == this.state.lastBGIndex ? this.randomIndex(length, type) : i
+        i = i === this.state.lastBGIndex ? this.randomIndex(length, type) : i
         this.setState({lastBGIndex: i})
         break
       case "ancestries":
         i = Math.floor(Math.random() * length)
-        i = i == this.state.lastAncesIndex ? this.randomIndex(length, type) : i
+        i = i === this.state.lastAncesIndex ? this.randomIndex(length, type) : i
         this.setState({lastAncesIndex: i})
         break
     }
@@ -50,7 +49,7 @@ class App extends React.Component {
 
   render() {
     return (
-      <div className="App">
+      <div className="container">
         <h1>Quick &amp; Dirty Pathfinder 2E Random Generator</h1>
         <button onClick={() => {this.handleGenerateCharacter()}}>Generate Character!</button>
 
@@ -66,6 +65,7 @@ class App extends React.Component {
           </div>
         </div>
       </div>
+        
     )
   }
 }
