@@ -1,10 +1,22 @@
 .App {
   text-align: center;
+  margin-top: 3.5rem;
 }
 
 .App-logo {
   height: 40vmin;
   pointer-events: none;
+}
+
+.character {
+  margin: 0 auto;
+  text-align: left;
+  display: flex;
+  flex-direction: column;
+  flex-wrap: nowrap;
+  justify-content: flex-start;
+  align-items: flex-start;
+  width: 600px;
 }
 
 @media (prefers-reduced-motion: no-preference) {
