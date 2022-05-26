@@ -52,7 +52,7 @@ class App extends React.Component {
     return (
       <div className="App">
         <h1>Quick &amp; Dirty Pathfinder 2E Random Generator</h1>
-        <button onClick={() => {this.handleGenerateCharacter()}}>Generate Character</button>
+        <button onClick={() => {this.handleGenerateCharacter()}}>Generate Character!</button>
 
         <div className="character">
           <div id="ancestry-info" className="info">
